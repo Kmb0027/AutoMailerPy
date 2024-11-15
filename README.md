@@ -1,0 +1,2 @@
+# AutoMailerPy
+Automates email responses
